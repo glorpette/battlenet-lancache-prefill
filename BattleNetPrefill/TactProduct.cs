@@ -81,6 +81,7 @@
         public static readonly TactProduct CodModernWarfare = new TactProduct("odin") { DisplayName = "Call of Duty: Modern Warfare 2019", IsActivision = true };
 
         public static readonly TactProduct CallOfDuty = new TactProduct("auks") { DisplayName = "Call of Duty", IsActivision = true };
+        public static readonly TactProduct CallOfDutyRC = new TactProduct("auksrc") { DisplayName = "Call of Duty Cortez RC", IsActivision = true };
         public static readonly TactProduct CodMW2Remastered = new TactProduct("lazr") { DisplayName = "Call of Duty: MW2 Remastered", IsActivision = true };
         public static readonly TactProduct CodVanguard = new TactProduct("fore") { DisplayName = "Call of Duty: Vanguard", IsActivision = true };
 
